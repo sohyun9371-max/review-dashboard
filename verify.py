@@ -13,7 +13,7 @@ ALLOW=("수원","영통","광교","동탄","용인","기흥","화성","오산","
 BLOCK=("체험단 공고 통계","모집현황","공지사항")
 WEEKEND_YES=re.compile(r"(주말.{0,12}(가능|방문|체험|운영)|토[·, /~및과]+일.{0,10}(가능|방문|체험)|토요일.{0,15}(가능|방문|체험)|일요일.{0,15}(가능|방문|체험))")
 WEEKEND_NO=re.compile(r"(주말.{0,12}(불가|제외|휴무)|토[·, /~및과]+일.{0,12}(불가|제외|휴무))")
-DEADLINE=re.compile(r"(?:신청|모집|지원).{0,12}(?:마감|기간|종료).{0,25}?(20\\d{2})[.\\-/](\\d{1,2})[.\\-/](\\d{1,2})")
+DEADLINE=re.compile(r"(?:신청|모집|지원).{0,12}(?:마감|기간|종료).{0,25}?(20\d{2})[./-](\d{1,2})[./-](\\d{1,2})")
 session=requests.Session()
 session.headers.update({"User-Agent":"Mozilla/5.0 (compatible; CampaignStatusChecker/1.0)"})
 items=json.loads((ROOT/"candidates.json").read_text(encoding="utf-8"))
