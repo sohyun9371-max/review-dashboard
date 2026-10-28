@@ -32,9 +32,9 @@ def collect():
         print(f"Found {len(links)} links on {url}")
         for a in links:
             href=urljoin(url,a.get("href",""))
-            if not href.startswith(BASE+"/") or not re.search(r"/campaigns/[^/]+/.+",href):
+            if not href.startswith("https://") or href == url:
                 continue
-            parent=a.find_parent(["article","li"]) or a.parent
+            parent=a.find_parent(["article","li","section"]) or a.parent
             if parent is None:
                 continue
             snippet=parent.get_text(" ",strip=True)
