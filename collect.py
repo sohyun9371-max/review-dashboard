@@ -16,7 +16,7 @@ HEADERS={"User-Agent":"WeekendCampaignDashboard/0.1 (+public listing research)"}
 def collect():
     items=[]
     session=requests.Session()
-    for delta in range(4):
+    for delta in range(7):
         day=(datetime.now(KST)-timedelta(days=delta)).strftime("%Y-%m-%d")
         url=f"{BASE}/campaigns/{day}/"
         try:
@@ -26,8 +26,11 @@ def collect():
             print(f"Skip {url}: {exc}")
             continue
         soup=BeautifulSoup(response.text,"html.parser")
+        print(f"Loaded {url}: {response.status_code}, {len(response.content)} bytes")
         # A listing link must have an explicit campaign path; do not guess from headings.
-        for a in soup.select('a[href]'):
+        links=soup.select('a[href]')
+        print(f"Found {len(links)} links on {url}")
+        for a in links:
             href=urljoin(url,a.get("href",""))
             if not href.startswith(BASE+"/") or not re.search(r"/campaigns/[^/]+/.+",href):
                 continue
