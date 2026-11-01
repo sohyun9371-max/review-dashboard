@@ -234,30 +234,30 @@
     "source": "모아알림",
     "location": "성남",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432053",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[판교] 쉐누하누 (런치)",
     "source": "모아알림",
     "location": "성남",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432054",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[경기/수원] 와이앤브로우 수원점 (눈썹문신/반영구입술)",
     "source": "모아알림",
     "location": "수원",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432168",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[경기/화성]미쁜살롱 봉담점",
@@ -484,10 +484,10 @@
     "source": "모아알림",
     "location": "오산",
     "url": "https://cometoplay.kr/item.php?it_id=1793234482&category_id=001",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[경기 성남 ] 서울 3대 베이글 맛집 으로 유명한 베이글 맛집 [베이글리스트 X 라크루뜨 서울 현대백화점 판교점] #판교베이글 #판교 현대백화점 맛집 #서울베이글맛집 #판교베이커리",
@@ -524,10 +524,10 @@
     "source": "모아알림",
     "location": "안양",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432547",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "빨간거짱구네 동탄점",
@@ -1064,40 +1064,40 @@
     "source": "모아알림",
     "location": "동탄",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432116",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[광교] 더광교스칼프스킨디자인센터 - 두피커버, 튼살커버 체험권",
     "source": "모아알림",
     "location": "수원",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432142",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[광교] 리위뷰티룸",
     "source": "모아알림",
     "location": "수원",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432190",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[광교] 코드에스",
     "source": "모아알림",
     "location": "수원",
     "url": "https://www.seoulouba.co.kr/campaign/?c=430158",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[성남/위례] 몸관리 PT + 헬스장 이용권!",
@@ -1164,196 +1164,6 @@
     "source": "모아알림",
     "location": "성남",
     "url": "https://www.reviewplace.co.kr/pr/?id=317029&rp_apply_refresh=20260814_pc_apply_return2",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[산본] 필라테스케밍 산본점",
-    "source": "모아알림",
-    "location": "군포",
-    "url": "https://www.revu.net/campaign/1425488",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[화성] 모닥화로 향남본점",
-    "source": "모아알림",
-    "location": "화성",
-    "url": "https://www.revu.net/campaign/1425423",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/수원] 더봄메이크업에서 헤어메이크업 받아보세요!",
-    "source": "모아알림",
-    "location": "수원",
-    "url": "https://www.reviewplace.co.kr/pr/?id=316934&rp_apply_refresh=20260814_pc_apply_return2",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/의왕] 따스한 꿈을 꾸는 작업실에서 힐링하고 가세요~",
-    "source": "모아알림",
-    "location": "의왕",
-    "url": "https://www.reviewplace.co.kr/pr/?id=316919&rp_apply_refresh=20260814_pc_apply_return2",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기 의왕] 인기폭발중인 서울근교 최고의 프리미엄 셀프 야외바베큐장 [오매기744] #셀프야외바베큐장 #서울근교바베큐 #서울근교갈만한곳",
-    "source": "모아알림",
-    "location": "의왕",
-    "url": "https://cometoplay.kr/item.php?it_id=1792981964&category_id=001",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/화성]엘리움스파",
-    "source": "모아알림",
-    "location": "화성",
-    "url": "https://chvu.co.kr/campaign/201814",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/화성]엘리움스파",
-    "source": "모아알림",
-    "location": "화성",
-    "url": "https://chvu.co.kr/campaign/201812",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/화성]엘리움스파",
-    "source": "모아알림",
-    "location": "화성",
-    "url": "https://chvu.co.kr/campaign/201811",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/화성]엘리움스파",
-    "source": "모아알림",
-    "location": "화성",
-    "url": "https://chvu.co.kr/campaign/201810",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/군포] 허니듀에서 맛있는 식사해보세요!",
-    "source": "모아알림",
-    "location": "군포",
-    "url": "https://www.reviewplace.co.kr/pr/?id=316872&rp_apply_refresh=20260814_pc_apply_return2",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/수원]트두헤어",
-    "source": "모아알림",
-    "location": "수원",
-    "url": "https://chvu.co.kr/campaign/201798",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기 안양] 삼막사 맛집! 아삭아삭한 콩나물과 매콤한 해물의 만남! 해물찜 전문 맛집 [김영희강남동태찜] #삼막사맛집 #안양맛집 #만안구맛집",
-    "source": "모아알림",
-    "location": "안양",
-    "url": "https://cometoplay.kr/item.php?it_id=1792973016&category_id=001",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[수원 권선] 진한 고기국물에 고명 듬~뿍 올라간 국밥과 육전이 맛있는 수원대표 국밥집 [더올바른밥상 수원점] #수원구운동 #고기국밥 #육전 #수원국밥집",
-    "source": "모아알림",
-    "location": "수원",
-    "url": "https://cometoplay.kr/item.php?it_id=1792973069&category_id=001",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기 수원] 수원 양꼬치 맛집으로 유명한 정통중식맛집 [귀빈루 수원남문점] #수원양꼬치맛집 #중국요리 #수원남문맛집",
-    "source": "모아알림",
-    "location": "수원",
-    "url": "https://cometoplay.kr/item.php?it_id=1792972774&category_id=001",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[성남 분당] 서현역을 대표하는 직접 로스팅한 원두를 사용한 커피와 디저트가 맛있는 분위기 좋은 카페! [카페굿웨더 서현] #서현카페 #서현데이트 #디저트 #케이크",
-    "source": "모아알림",
-    "location": "성남",
-    "url": "https://cometoplay.kr/item.php?it_id=1792974433&category_id=001",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[안양 동편마을] 동편마을 인덕원역! 말이필요없는 담당자인생 초역대급 초밥맛집 [동편마을맛있는초밥가게] #인덕원맛집 #동편마을초밥 #로컬맛집",
-    "source": "모아알림",
-    "location": "안양",
-    "url": "https://cometoplay.kr/item.php?it_id=1792971710&category_id=001",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[군포] 뷰티나나",
-    "source": "모아알림",
-    "location": "군포",
-    "url": "https://www.seoulouba.co.kr/campaign/?c=431915",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
-  },
-  {
-    "title": "[경기/안양역] 안양역 지하상가 속눈썹 맛집 바비걸~♥",
-    "source": "모아알림",
-    "location": "안양",
-    "url": "https://www.reviewplace.co.kr/pr/?id=314252&rp_apply_refresh=20260814_pc_apply_return2",
-    "weekend_status": "no",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/군포] 산본 낭만브로우에서 눈썹문신 받아보세요!",
-    "source": "모아알림",
-    "location": "군포",
-    "url": "https://www.reviewplace.co.kr/pr/?id=316089&rp_apply_refresh=20260814_pc_apply_return2",
     "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
