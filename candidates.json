@@ -1,5 +1,35 @@
 [
   {
+    "title": "[경기/용인]온유브로우",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://chvu.co.kr/campaign/203410",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/성남]멘토PT 분당수내점",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://chvu.co.kr/campaign/203408",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/성남]휘트니스클럽S 수내점",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://chvu.co.kr/campaign/203406",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
     "title": "노랑강정 화성봉담점",
     "source": "모아알림",
     "location": "화성",
@@ -244,20 +274,20 @@
     "source": "모아알림",
     "location": "동탄",
     "url": "https://www.seoulouba.co.kr/campaign/?c=434013",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[동탄] 타코부스 동탄남광장점",
     "source": "모아알림",
     "location": "동탄",
     "url": "https://www.seoulouba.co.kr/campaign/?c=432871",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "삼미회관 안양평촌",
@@ -904,20 +934,20 @@
     "source": "모아알림",
     "location": "동탄",
     "url": "https://www.seoulouba.co.kr/campaign/?c=433253",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[광교] 코드에스",
     "source": "모아알림",
     "location": "수원",
     "url": "https://www.seoulouba.co.kr/campaign/?c=433359",
-    "weekend_status": "unknown",
+    "weekend_status": "no",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: HTTPSConnectionPool(host='www.seoulouba.co.kr', port=443): Max retries exceeded with url: /campaign/"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[오산] 꽃잎 브런치 카페",
