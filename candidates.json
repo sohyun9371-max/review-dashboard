@@ -1,5 +1,285 @@
 [
   {
+    "title": "[경기/성남]추스타짐 헬스&PT 미금점",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://chvu.co.kr/campaign/204109",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/수원]모디슨 광교점",
+    "source": "모아알림",
+    "location": "수원",
+    "url": "https://chvu.co.kr/campaign/204100",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/화성]삼백돈돈가츠 동탄라크몽점",
+    "source": "모아알림",
+    "location": "동탄",
+    "url": "https://chvu.co.kr/campaign/204095",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[성남] 나이스바레",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://www.revu.net/campaign/1436986",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[용인] 미담오뎅",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://www.revu.net/campaign/1436980",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/안양]45GYM 여성전용 헬스&PT 범계점",
+    "source": "모아알림",
+    "location": "안양",
+    "url": "https://chvu.co.kr/campaign/204085",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/용인]더그레이호텔 용인점",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://chvu.co.kr/campaign/204079",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/안양] 오티티관 안양범계역점 OTT 방문해보세요!",
+    "source": "모아알림",
+    "location": "안양",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320921&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[용인/50,000p]침구브랜드 리브베터 쇼룸을 방문하고 체험해보세요!",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320897&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/오산]라디체 필라테스",
+    "source": "모아알림",
+    "location": "오산",
+    "url": "https://chvu.co.kr/campaign/204044",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[광교] 프라이빗한 수영장에서 강습받아보세요~!",
+    "source": "모아알림",
+    "location": "수원",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320852&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/안양] 윤필라테스에서 그룹레슨 ♥",
+    "source": "모아알림",
+    "location": "안양",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320842&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/수원] 인계동 인도요리 맛집! 커플 데이트 추천해요♥",
+    "source": "모아알림",
+    "location": "수원",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320814&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/동탄] 오하나 포케",
+    "source": "모아알림",
+    "location": "동탄",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320812&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기 용인] 유럽감성 브런치 최고의 식재료로 만드는 분위기 레스토랑 [포멜로] #런치체험 #잠봉뵈르 #네츄럴와인 #라구파스타",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://cometoplay.kr/item.php?it_id=1794533116&category_id=001",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[부산 연제구] 부산연제구를 대표하는 잡내없이 야들야들 구워지는 양꼬치 맛집 [흥안양꼬치] #고퀄리티 #맛집 #양꼬치",
+    "source": "모아알림",
+    "location": "안양",
+    "url": "https://cometoplay.kr/item.php?it_id=1794530294&category_id=001",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기 화성] 동탄역점 프리미엄 호텔식 바디케어 호텔급 서비스로 단연코 업계 최상위 관리를자부하는 전문 마사지샵 [진심을다한 마사지&스파 동탄역점] #동탄마사지 #마사지전문 #아로마테라피 #바디케어",
+    "source": "모아알림",
+    "location": "동탄",
+    "url": "https://cometoplay.kr/item.php?it_id=1794530166&category_id=001",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기 성남] 복어요리 전문점임과 동시에 고급일식 그 이상의 코스요리를 VVIP 처럼 대접받을 수 있는 맛집 [원복집] #분당오마카세 #분당룸식당 #분당사시미",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://cometoplay.kr/item.php?it_id=1794529866&category_id=001",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기 성남] 분당에서 모르는사람이 없는 30년 장어명인의 고퀄리티 장어 맛집! [장어이야기 본점] #분당맛집 #장어맛집 #분당장어",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://cometoplay.kr/item.php?it_id=1794528826&category_id=001",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "소담촌 롯데마트수원권선점",
+    "source": "모아알림",
+    "location": "수원",
+    "url": "https://www.mrblog.net/campaigns/1151086",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/인덕원] 신청진동해장국감자탕",
+    "source": "모아알림",
+    "location": "의왕",
+    "url": "https://www.seoulouba.co.kr/campaign/?c=435103",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "장안구 수제청 차,도라지 정과",
+    "source": "모아알림",
+    "location": "수원",
+    "url": "https://keyplat.net/review_campaign.php?cp_id=1793986644",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "청기와타운 마포점",
+    "source": "모아알림",
+    "location": "수원",
+    "url": "https://www.mrblog.net/campaigns/1151995",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/용인] 체계적인 수업으로 유명한 진산필라테스에서 필라테스 1:1 체험해보세요♥?",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320462&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/용인] 체계적인 수업으로 유명한 진산필라테스에서 필라테스 2:1 체험해보세요♥?",
+    "source": "모아알림",
+    "location": "용인",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320461&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[경기/화성]병점 PT 케이토탈 헬스",
+    "source": "모아알림",
+    "location": "화성",
+    "url": "https://chvu.co.kr/campaign/204016",
+    "weekend_status": "unknown",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[동탄호수공원점] 연말 선물은 복호두에서 준비해보세요!",
+    "source": "모아알림",
+    "location": "동탄",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320739&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
+    "title": "[성남/분당구/규재원장] 머리 맛집! 모디아스 헤어에서 헤어커트하세요~",
+    "source": "모아알림",
+    "location": "성남",
+    "url": "https://www.reviewplace.co.kr/pr/?id=320729&rp_apply_refresh=20260814_pc_apply_return2",
+    "weekend_status": "no",
+    "drive_minutes": null,
+    "recruitment_status": "unknown",
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
+  },
+  {
     "title": "[경기/화성]청년헬스&PT 동탄영천점",
     "source": "모아알림",
     "location": "동탄",
@@ -1117,7 +1397,7 @@
     "weekend_status": "unknown",
     "drive_minutes": null,
     "recruitment_status": "unknown",
-    "verification_note": "원문 접속 실패: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
   },
   {
     "title": "[경기/군포] 허니듀에서 맛있는 식사해보세요!",
@@ -1344,36 +1624,6 @@
     "source": "모아알림",
     "location": "용인",
     "url": "https://keyplat.net/review_campaign.php?cp_id=1793510957",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/성남]멘토PT 분당수내점",
-    "source": "모아알림",
-    "location": "성남",
-    "url": "https://chvu.co.kr/campaign/203408",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/성남]휘트니스클럽S 수내점",
-    "source": "모아알림",
-    "location": "성남",
-    "url": "https://chvu.co.kr/campaign/203406",
-    "weekend_status": "unknown",
-    "drive_minutes": null,
-    "recruitment_status": "unknown",
-    "verification_note": "원문 자동 확인(요일·마감일 추출은 참고용). 정확한 방문주소 및 실시간 차량 이동시간 미검증"
-  },
-  {
-    "title": "[경기/용인]온유브로우",
-    "source": "모아알림",
-    "location": "용인",
-    "url": "https://chvu.co.kr/campaign/203410",
     "weekend_status": "unknown",
     "drive_minutes": null,
     "recruitment_status": "unknown",
